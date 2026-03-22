@@ -1,0 +1,14 @@
+# Dépendances
+node_modules/
+
+# Variables d'environnement (SÉCURITÉ : NE PAS PUSHER VOS MOTS DE PASSE DB)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Autres
+.DS_Store
+dist/
